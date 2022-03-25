@@ -8,6 +8,7 @@ import {
     Link
 } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'mdb-ui-kit/css/mdb.min.css'
 import NavigationComponent from "./components/NavigationComponent";
 import ClientAddComponent from "./components/ClientAddComponent";
 import ClientListComponent from "./components/ClientListComponent";
